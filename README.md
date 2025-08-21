@@ -35,3 +35,17 @@ Notebook Jupyter
 
 ## 
 >Attention ! : Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l'organisme OpenClassrooms.
+
+## Visuels du projet
+![P12_S01](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S01.jpg)  
+![P12_S02](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S02.jpg)  
+![P12_S03](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S03.jpg)  
+![P12_S04](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S04.jpg)  
+![P12_S05](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S05.jpg) 
+![P12_S06](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S06.jpg)  
+![P12_S07](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S07.jpg)  
+![P12_S08](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S08.jpg)  
+![P12_S09](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S09.jpg)  
+![P12_S10](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S10.jpg)  
+![P12_S11](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P12_S11.jpg)  
+
